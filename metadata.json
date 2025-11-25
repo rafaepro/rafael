@@ -1,0 +1,8 @@
+{
+  "name": "Mãe em Evolução",
+  "description": "Um aplicativo de autocuidado e emagrecimento pós-parto com funcionalidades de IA para edição de fotos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
